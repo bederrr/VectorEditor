@@ -1,0 +1,35 @@
+C:\Users\Konstantin\Documents\Компьютерная геометрия и графика\VectorEditor\VectorEditor\VectorEditor\bin\Debug\VectorEditor.exe.config
+C:\Users\Konstantin\Documents\Компьютерная геометрия и графика\VectorEditor\VectorEditor\VectorEditor\bin\Debug\VectorEditor.exe
+C:\Users\Konstantin\Documents\Компьютерная геометрия и графика\VectorEditor\VectorEditor\VectorEditor\bin\Debug\VectorEditor.pdb
+C:\Users\Konstantin\Documents\Компьютерная геометрия и графика\VectorEditor\VectorEditor\VectorEditor\obj\Debug\VectorEditor.MainForm.resources
+C:\Users\Konstantin\Documents\Компьютерная геометрия и графика\VectorEditor\VectorEditor\VectorEditor\obj\Debug\VectorEditor.Properties.Resources.resources
+C:\Users\Konstantin\Documents\Компьютерная геометрия и графика\VectorEditor\VectorEditor\VectorEditor\obj\Debug\VectorEditor.csproj.GenerateResource.Cache
+C:\Users\Konstantin\Documents\Компьютерная геометрия и графика\VectorEditor\VectorEditor\VectorEditor\obj\Debug\VectorEditor.exe
+C:\Users\Konstantin\Documents\Компьютерная геометрия и графика\VectorEditor\VectorEditor\VectorEditor\obj\Debug\VectorEditor.pdb
+C:\Users\Konstantin\Documents\Компьютерная геометрия и графика\VectorEditor\VectorEditor\VectorEditor\obj\Debug\VectorEditor.HelpForm.resources
+C:\Users\Konstantin\Documents\Компьютерная геометрия и графика\VectorEditor\VectorEditor\VectorEditor\obj\Debug\VectorEditor.ColorPicker.resources
+C:\Users\Konstantin\Documents\Компьютерная геометрия и графика\VectorEditor\VectorEditor\VectorEditor\obj\Debug\VectorEditor.LineStyleForm.resources
+C:\Users\Konstantin\Documents\Компьютерная геометрия и графика\VectorEditor\VectorEditor\VectorEditor\obj\Debug\VectorEditor.FigureStyleForm.resources
+C:\Users\Konstantin\Documents\Компьютерная геометрия и графика\VectorEditor\VectorEditor\VectorEditor\obj\Debug\VectorEditor.TextStyleForm.resources
+C:\Users\Konstantin\Documents\Компьютерная геометрия и графика\VectorEditor\VectorEditor\VectorEditor\obj\Debug\VectorEditor.EnterTextForm.resources
+C:\Users\Konstantin\Documents\Компьютерная геометрия и графика\VectorEditor\VectorEditor\VectorEditor\obj\Debug\VectorEditor.EnterRadiusForm.resources
+C:\Users\Konstantin\Documents\Компьютерная геометрия и графика\VectorEditor\VectorEditor\VectorEditor\obj\Debug\VectorEditor.EnterSizesForm.resources
+C:\Users\Konstantin\Documents\Компьютерная геометрия и графика\VectorEditor\VectorEditor\VectorEditor\obj\Debug\VectorEditor.csprojResolveAssemblyReference.cache
+C:\Users\Konstantin\Desktop\КГ\VectorEditor\VectorEditor\VectorEditor\obj\Debug\VectorEditor.csprojAssemblyReference.cache
+C:\Users\Konstantin\Desktop\КГ\VectorEditor\VectorEditor\VectorEditor\obj\Debug\VectorEditor.exe
+C:\Users\Konstantin\Desktop\КГ\VectorEditor\VectorEditor\VectorEditor\obj\Debug\VectorEditor.pdb
+C:\Users\Konstantin\Desktop\КГ\VectorEditor\VectorEditor\VectorEditor\bin\Debug\VectorEditor.exe.config
+C:\Users\Konstantin\Desktop\КГ\VectorEditor\VectorEditor\VectorEditor\bin\Debug\VectorEditor.exe
+C:\Users\Konstantin\Desktop\КГ\VectorEditor\VectorEditor\VectorEditor\bin\Debug\VectorEditor.pdb
+C:\Users\Konstantin\Desktop\КГ\VectorEditor\VectorEditor\VectorEditor\obj\Debug\VectorEditor.ColorPicker.resources
+C:\Users\Konstantin\Desktop\КГ\VectorEditor\VectorEditor\VectorEditor\obj\Debug\VectorEditor.EnterRadiusForm.resources
+C:\Users\Konstantin\Desktop\КГ\VectorEditor\VectorEditor\VectorEditor\obj\Debug\VectorEditor.EnterSizesForm.resources
+C:\Users\Konstantin\Desktop\КГ\VectorEditor\VectorEditor\VectorEditor\obj\Debug\VectorEditor.EnterTextForm.resources
+C:\Users\Konstantin\Desktop\КГ\VectorEditor\VectorEditor\VectorEditor\obj\Debug\VectorEditor.FigureStyleForm.resources
+C:\Users\Konstantin\Desktop\КГ\VectorEditor\VectorEditor\VectorEditor\obj\Debug\VectorEditor.HelpForm.resources
+C:\Users\Konstantin\Desktop\КГ\VectorEditor\VectorEditor\VectorEditor\obj\Debug\VectorEditor.LineStyleForm.resources
+C:\Users\Konstantin\Desktop\КГ\VectorEditor\VectorEditor\VectorEditor\obj\Debug\VectorEditor.MainForm.resources
+C:\Users\Konstantin\Desktop\КГ\VectorEditor\VectorEditor\VectorEditor\obj\Debug\VectorEditor.Properties.Resources.resources
+C:\Users\Konstantin\Desktop\КГ\VectorEditor\VectorEditor\VectorEditor\obj\Debug\VectorEditor.TextStyleForm.resources
+C:\Users\Konstantin\Desktop\КГ\VectorEditor\VectorEditor\VectorEditor\obj\Debug\VectorEditor.csproj.GenerateResource.cache
+C:\Users\Konstantin\Desktop\КГ\VectorEditor\VectorEditor\VectorEditor\obj\Debug\VectorEditor.csproj.CoreCompileInputs.cache

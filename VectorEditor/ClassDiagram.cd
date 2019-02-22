@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="VectorEditor.TextStyle" Collapsed="true">
+    <Position X="6.5" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EgAAAAAAAAAAgAAAAAAAAAAAEAAAAAAAAAAAgAACAAA=</HashCode>
+      <FileName>TextStyle.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="VectorEditor.LineStyle" Collapsed="true">
+    <Position X="6.5" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAAAAAAACAAAAAAAAEAAEAAAAAAAAAAAgAAAAAA=</HashCode>
+      <FileName>LineStyle.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="VectorEditor.FigureStyle" Collapsed="true">
+    <Position X="6.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAAAAAEACAIAAAAAAAAAEAAAAAAAAAAAgAAAAAA=</HashCode>
+      <FileName>FigureStyle.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Interface Name="VectorEditor.IGraphicStyle" Collapsed="true">
+    <Position X="4.75" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>IGraphicStyle.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
